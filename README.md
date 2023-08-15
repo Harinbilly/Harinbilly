@@ -10,7 +10,7 @@ Check the website out
 
 Connect with me on
 
- <a href="https://www.instagram.com/harin_udu/">instagram</a>
+ <a href="https://www.instagram.com/harin_udu/">instagram</a><br>
  <a href="https://www.linkedin.com/in/harindu-udugama-9b40591a2/">Linked in</a>
  
 <!---
